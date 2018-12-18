@@ -5,8 +5,7 @@
 * 画面を分離する見えない縦線
 * 幅が細すぎて掴むのに苦労する
 
-![0]()
-![1]()
+![0](https://cdn-ak.f.st-hatena.com/images/fotolife/y/ytyaru/20181218/20181218143047.png)
 
 # 開発環境
 
